@@ -18,8 +18,7 @@
   },
   "homepage": "https://github.com/alizain102/Portfolio-Website#readme",
   "devDependencies": {
-	"stylelint": "^15.0.0",
-	"stylelint-config-standard": "^33.0.0"
-}
+    "stylelint": "^15.0.0",
+    "stylelint-config-standard": "^33.0.0"
   }
 }
