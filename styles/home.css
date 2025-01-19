@@ -6,7 +6,7 @@ body {
 }
 
 header {
-  background-color: #333;
+  background-color: #4a4a4a;
   color: #fff;
   text-align: center;
   padding: 1rem;
@@ -31,8 +31,12 @@ main {
   padding: 2rem;
 }
 
+section {
+  margin-bottom: 2rem;
+}
+
 footer {
-  background-color: #333;
+  background-color: #4a4a4a;
   color: #fff;
   text-align: center;
   padding: 1rem;
